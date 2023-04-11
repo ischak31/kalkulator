@@ -1,0 +1,28 @@
+.container {
+    width: 280px;
+    background-color: antiquewhite;
+    margin: auto;
+}
+
+.hero {
+    text-align: center;
+    
+}
+
+.input-box {
+    height: 40px;
+    width: 100%;
+    font-size: 28px;
+}
+
+.tombol {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.tombol .item {
+    padding: 15px 20px;
+    background-color: aliceblue;
+    font-size: 28px;
+}
